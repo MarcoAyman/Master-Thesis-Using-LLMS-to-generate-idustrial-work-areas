@@ -10,7 +10,7 @@ This thesis addresses a critical gap in layout generation by developing a method
 + Created a synthetic dataset since no public datasets exist for industrial work area layouts
 + Designed data schema to represent industrial work areas and their components
 + Implemented data augmentation techniques to expand the training set
-**Phase 2: Model Fine-Tuning**
+-**Phase 2: Model Fine-Tuning**
 + Dataset preprocessing to be suitable for LlamaForCausalLM class in pytorch
 + Hyperparameter optimization
 +  Parameter-Efficient Fine-Tuning (LORA)
