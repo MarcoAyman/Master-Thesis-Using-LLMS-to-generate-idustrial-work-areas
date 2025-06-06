@@ -20,3 +20,4 @@ This thesis addresses a critical gap in layout generation by developing a method
 ### Phase 3: Model Evaluation  
 - Prompt consistency  
 - Spatial accuracy  
+
