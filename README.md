@@ -6,4 +6,7 @@ This thesis addresses a critical gap in layout generation by developing a method
 ![Leveraging Large Language Models for Generating 2D Layout in Industrial Work Areas (2)-21_page-0001](https://github.com/user-attachments/assets/da89e675-f34e-46d0-9d31-5577b49c2d78)
 
 ## Project Phases 
-1. Data Design and Augmentation
+**1. Data Design and Augmentation**
++ Created a synthetic dataset since no public datasets exist for industrial work area layouts
++ Designed data schema to represent industrial work areas and their components
++ Implemented data augmentation techniques to expand the training set
